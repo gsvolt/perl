@@ -17,5 +17,29 @@ print "hello world\n";
 #print "value of n{'key'} = ".$n{'key'}."\n";
 
 
+ my @arr = ( '1', 2.5, 15,3.14);
+# print @arr."\n";  # count
+# print $arr[1];    # array indices begin at 0
 
+# my @arr2 = 
+
+#if($arr[3] == 3.14)
+#{
+# print "I found a Pie!\n";
+#}
+
+
+# my %fav = (
+# red => "ff0000",
+# green => "00ff00",
+# blue => "0000ff"
+#);
+# print $fav{"red"}."\n";
+
+
+# Loops  .. say for countdown to ALUG
+#for my $count (5..1)    #5,4,3,2,1
+#{
+# print $count,"\n"; sleep(1);
+#}
 
