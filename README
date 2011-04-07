@@ -1,0 +1,10 @@
+This repository contains perl programs. 
+
+Mostly demonstration programs which will eventually lead to 
+a real life application
+
+Before you execute them, you will have to:
+cpan -f -i Tk
+
+
+@gsvolt

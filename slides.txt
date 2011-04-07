@@ -1,0 +1,12 @@
+check if perl is installed:
+
+perl -v (5.12.2) <-- my version
+
+
+Install Tk:
+
+cpan -f -i Tk    
+
+
+
+
